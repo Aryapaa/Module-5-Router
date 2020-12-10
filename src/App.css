@@ -1,0 +1,95 @@
+.header-color{
+  background: #FFDBE0;
+  background: -webkit-linear-gradient(to right, #FFDBE0, #ee9ca7);
+  background: linear-gradient(to right, #FFDBE0, #ee9ca7);
+}
+
+.beranda-grid{
+  background: #FFDBE0;
+  background: -webkit-linear-gradient(to right, #FFDBE0, #ee9ca7);
+  background: linear-gradient(to right, #FFDBE0, #ee9ca7);
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+}
+
+.banner-text{
+  position: absolute;
+  left: 12%;
+  top: 40%;
+  width: 75%;
+}
+
+.banner-text h1{
+  font-size: 66px;
+  font-weight: bold;
+  color: #fff;
+}
+
+.banner-text hr{
+  border-top: 5px dotted #fff;
+  width: 80%;
+  margin: auto;
+}
+
+.karya-grid{
+  display: flex;
+}
+
+.kartu-text{
+  background: #ee9ca7;
+  font-weight: bold;
+  font-family: 'Anton', sans-serif;
+}
+
+.kulo-right-col{
+  background: #ee9ca7;
+  color: #fff;
+  padding: 2em;
+}
+/* .kontak-body{
+  text-align: center;
+  margin: auto; 
+  background: #fff;
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  padding-top:2em; 
+}
+
+.kontak-grid{
+  text-align: center;
+  justify-content: center;
+  width: 93%;
+  height: 640px;
+  background: #FFDBE0;  
+  background: -webkit-linear-gradient(to right, #FFDBE0, #ee9ca7);  
+  background: linear-gradient(to right, #FFDBE0, #ee9ca7); 
+  color: #fff;
+  border: 2px solid #FFDBE0;
+}
+
+.kontak-grid h2{
+  font-family: 'Anton', sans-serif;
+}
+
+.kontak-grid p{
+  font-family: 'Oxygen', sans-serif;
+  font-weight: bold;
+}
+
+.kontak-grid hr{
+  border-top: 5px dotted #fff;
+  width: 50%;
+  margin: auto;
+}
+
+.kontak-list i{
+  font-size: 55px;
+  padding-right: 5rem;
+  color: #fff;
+} */
+
